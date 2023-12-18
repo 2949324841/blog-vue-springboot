@@ -1,7 +1,7 @@
 
 Vue + SpringBoot实现的博客系统
 
-线上地址：<a target="_blank" href="http://blog.shiminghui.top">For Fun</a>
+线上地址：<a target="_blank" href="http://p">For Fun</a>
 
 ## ssr 服务端渲染版本 
 
